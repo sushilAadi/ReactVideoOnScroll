@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+}
+.App div {
+  height: 100vh;
+  width: 98vw;
+}
+.One,.Two,.Three,.Four {
+  position: relative;
+  z-index: 1;
+  padding:20px;
+}
+.video {
+  position: fixed;
+}
